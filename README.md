@@ -1,14 +1,4 @@
 
-![夜尽天明](https://upload-images.jianshu.io/upload_images/12890819-6e2289f29c0d3b39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-## 简介
-
-地址：[https://biaochenxuying.github.io/blog](https://biaochenxuying.github.io/blog)
-
-
-
-
 <!-- ## 分类
 
 - [JavaScript 数据结构与算法之美](https://github.com/biaochenxuying/blog/projects/10)
