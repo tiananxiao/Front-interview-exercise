@@ -6,11 +6,7 @@
 
 地址：[https://biaochenxuying.github.io/blog](https://biaochenxuying.github.io/blog)
 
-> **芳华正茂始少年，时光正好，未来可期 ！**
 
-技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-收获不止技术，还有财富。
 
 
 <!-- ## 分类
@@ -138,10 +134,6 @@
 
 - [1. 借助 VuePress 和 GitBook ，10 分钟即可免费部署你的静态博客网站](https://github.com/biaochenxuying/blog/issues/53)
 
-#### | 半小时硬核理财入门
-
-- [1. 用钱生钱，从掌握金钱的规律开始](https://github.com/biaochenxuying/blog/issues/26)
-- 精彩待续 ...
 
 #### | 学习资源
 
@@ -149,37 +141,7 @@
 - [2. (视频教程)Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
 
   
-## 计划
 
-以下是笔者往后的计划，计划执行的先后顺序，视情况而定。
-
-#### | webpack 原理及源码分析
-
-- 精彩待续 ...
-  
-   
-#### | Vue 原理及源码分析
-
-- 精彩待续 ...
-  
-
-#### | TypeScript 入门到熟练
-
-- 精彩待续 ...
-  
-#### | 小程序入门到熟练
-
-- 精彩待续 ...
-  
-<!--   
-#### | Flutter 入门到熟练
-
-- 精彩待续 ...  -->
-  
-  
-#### | 翻译国外文章
-
-- 精彩待续 ... 
 
 
 
@@ -227,9 +189,4 @@
 
 <!-- #### 技术以外
 
-技术以外的 BB。
 
-闲暇之余，技术以外的世界同样精彩。
-
-![硬核杂货铺](https://upload-images.jianshu.io/upload_images/12890819-7ed698c2818cdc3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
- -->
